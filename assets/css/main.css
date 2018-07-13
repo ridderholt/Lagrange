@@ -22,6 +22,7 @@ body {
   font-size: 18px;
   color: #515151;
   line-height: 1.75rem;
+  margin: 0;
 }
 
 @media (max-width: 30em) {
@@ -85,24 +86,42 @@ hr {
   width: 615px;
 }
 
-/*48em*/
-
-@media (max-width: 768px) {
-  .container {
-    width: 90vw;
-  }
+.masterhead-container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 615px;
+    margin-top: 50px;
 }
 
-/*
-  Masthead
-*/
-
+/*48em*/
 .masthead {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   margin-bottom: 4rem;
   font-family: "Quattrocento Sans", sans-serif;
+  background-image: url("/assets/img/bg2.png");
+  height: 130px;
 }
+
+@media (max-width: 768px) {
+  .container {
+    width: 90vw;
+  }
+  .masterhead-container {
+      width: 90vw;
+      margin-top: 0;
+  }
+  .masthead {
+      height: 100px !important;
+  }
+}
+
+
+/*
+  Masthead
+*/
+
+
 
 .masthead a:hover {
   color:black;
@@ -111,11 +130,11 @@ hr {
 .masthead-title a {
   font-size: 2rem;
   text-decoration: none;
-  color: #505050;
+  color: #333;
 }
 
 .masthead-subtitle {
-  color: #999;
+  color: #444;
 }
 
 /*
@@ -241,7 +260,7 @@ hr {
 }
 
 .menu-content a {
-  color: #999;
+  color: #444;
   font-size: 1rem;
   padding-right: 10px;
 }
@@ -251,7 +270,7 @@ hr {
 }
 
 .social-icons a {
-  color: #999;
+  color: #555;
   font-size: 1rem;
 }
 
