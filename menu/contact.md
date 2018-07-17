@@ -3,4 +3,7 @@ layout: page
 title: Contact
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+If you wish to come in to contact with me regarding any of my posts please leave a comment, I try to answer every comment.
+
+Twitter: <a href="https://www.twitter.com/Ridderholt">@Ridderholt</a><br />
+Email: <a href="mailto:robin.ridderholt@live.com">robin.ridderholt@live.com</a>
