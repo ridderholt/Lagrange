@@ -3,7 +3,7 @@ disqus:
   comments: true
   disqus_shortname: 'blog-ridderholt-se'
 
-google-ID: 'UA-47586163-1'
+google-ID: 'UA-122655489-1'
 
 menu:
 - {name: 'About', path: 'menu', url: 'about.html'}
