@@ -2,7 +2,7 @@
 layout: post
 title: "My first conference talk"
 author: "Robin Ridderholt"
-categories: journal
+categories: posts
 tags: [F#,conference,Swenugg,Swetugg]
 ---
 

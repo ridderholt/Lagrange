@@ -2,7 +2,7 @@
 layout: post
 title: "Nifty things in F#"
 author: "Robin Ridderholt"
-categories: journal
+categories: posts
 tags: [F#]
 ---
 

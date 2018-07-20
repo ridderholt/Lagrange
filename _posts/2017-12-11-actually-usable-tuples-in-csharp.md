@@ -2,7 +2,7 @@
 layout: post
 title: "Actually usable tuples in C#"
 author: "Robin Ridderholt"
-categories: journal
+categories: posts
 tags: [C#,Tuples]
 ---
 

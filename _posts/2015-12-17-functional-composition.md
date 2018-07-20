@@ -2,7 +2,7 @@
 layout: post
 title: "Functional composition"
 author: "Robin Ridderholt"
-categories: journal
+categories: posts
 tags: [F#,C#]
 ---
 

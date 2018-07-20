@@ -2,7 +2,7 @@
 layout: post
 title: "Wox plugin using F#"
 author: "Robin Ridderholt"
-categories: journal
+categories: posts
 tags: [F#,Wox]
 ---
 

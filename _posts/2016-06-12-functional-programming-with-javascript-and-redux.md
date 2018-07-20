@@ -2,7 +2,7 @@
 layout: post
 title: "Functional programming with JavaScript and Redux"
 author: "Robin Ridderholt"
-categories: journal
+categories: posts
 tags: [JavaScript,Functional Programming,Redux]
 ---
 

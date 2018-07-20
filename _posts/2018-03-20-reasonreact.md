@@ -2,7 +2,7 @@
 layout: post
 title: "ReasonReact"
 author: "Robin Ridderholt"
-categories: journal
+categories: posts
 tags: [Functional programming,JavaScript,ReasonML]
 ---
 

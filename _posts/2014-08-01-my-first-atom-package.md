@@ -2,7 +2,7 @@
 layout: post
 title: "My first atom package"
 author: "Robin Ridderholt"
-categories: journal
+categories: posts
 tags: [JavaScript,Package,Atom,CoffeScript,GitHub]
 ---
 

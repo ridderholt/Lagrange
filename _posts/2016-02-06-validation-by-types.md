@@ -2,7 +2,7 @@
 layout: post
 title: "Validation by types"
 author: "Robin Ridderholt"
-categories: journal
+categories: posts
 tags: [F#,C#,Validation,DDD]
 ---
 

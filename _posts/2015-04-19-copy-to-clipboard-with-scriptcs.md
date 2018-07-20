@@ -2,7 +2,7 @@
 layout: post
 title: "Copy to clipboard with scriptCS"
 author: "Robin Ridderholt"
-categories: journal
+categories: posts
 tags: [C#,scriptcs]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Gulp and Browserify with ASP.NET"
 author: "Robin Ridderholt"
-categories: journal
+categories: posts
 tags: [Browserify,JavaScript,Gulp.js,ASP.NET MVC]
 ---
 

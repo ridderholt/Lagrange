@@ -2,7 +2,7 @@
 layout: post
 title: "My first steps with F#"
 author: "Robin Ridderholt"
-categories: journal
+categories: posts
 tags: [F#,functional]
 ---
 
