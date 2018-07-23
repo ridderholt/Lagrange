@@ -1,7 +1,7 @@
 # Change to true for Disqus comments
 disqus:
   comments: true
-  disqus_shortname: 'blog-ridderholt-se'
+  disqus_shortname: 'myeyesonnet'
 
 google-ID: 'UA-122655489-1'
 
